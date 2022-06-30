@@ -3,5 +3,24 @@
     "console.table": "^0.10.0",
     "inquirer": "^9.0.0",
     "mysql2": "^2.3.3"
-  }
+  },
+  "name": "cmstracker",
+  "description": "## Description  This application was created for business owners.By using this app you should be able to view and manage the departments, roles, and employees in your company so that you can organize and plan your business.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeshaw97/CMStracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abeshaw97/CMStracker/issues"
+  },
+  "homepage": "https://github.com/abeshaw97/CMStracker#readme"
 }
