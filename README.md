@@ -9,7 +9,11 @@ This application was created for business owners.By using this app you should be
 * [Questions](#questions)
 
 ## Installation 
-To run this app make sure to clone this repository(https or ssh key) .......
+To run this app make sure to clone this repository(https or ssh key).once cloned run
+npm init -y
+npm i mysql
+npm console.table
+npm inquirer
 
 ## Usage 
 Watch video in order to see how everything will run...
